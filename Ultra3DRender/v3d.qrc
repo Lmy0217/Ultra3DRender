@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/V3D">
+        <file>Resources/colobox.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resources/toolbar logo/fileopen.png</file>
+        <file>Resources/toolbar logo/imagesave.png</file>
+        <file>Resources/toolbar logo/zoomin.png</file>
+        <file>Resources/toolbar logo/zoomout.png</file>
+        <file>Resources/toolbar logo/bgcolorset.png</file>
+        <file>Resources/toolbar logo/ctfileopen.png</file>
+        <file>Resources/toolbar logo/tfdisplay.png</file>
+        <file>Resources/toolbar logo/tfexport.png</file>
+        <file>Resources/toolbar logo/tfimport.png</file>
+        <file>Resources/toolbar logo/autorotate.png</file>
+        <file>Resources/screen logo/screen.png</file>
+        <file>Resources/images.jpg</file>
+    </qresource>
+</RCC>
